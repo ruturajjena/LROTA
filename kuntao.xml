@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Official>
         <kuntao>
-            <Filename>9.1.2-20180609-OFFICIAL-kuntao.zip</Filename>
+            <Filename>9.1.1-20180608-OFFICIAL-kuntao.zip</Filename>
             <RomUrl
                 id="rom"
                 title="LiquidRemix"
