@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Official>
         <kuntao>
-            <Filename>liquid_remix-9.1.1-20180608-kuntao.zip</Filename>
+            <Filename>liquid_remix-9.1.1-20180609-kuntao.zip</Filename>
             <RomUrl
                 id="rom"
                 title="LiquidRemix"
-                description="Download latest build for Kuntao">https://www.androidfilehost.com/?fid=818222786056034691</RomUrl>
+                description="Download latest build for Kuntao">https://www.androidfilehost.com/?fid=8182227860560346876</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
