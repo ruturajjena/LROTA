@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Official>
         <kuntao>
-            <Filename>9.1.1-20180608-OFFICIAL-kuntao.zip</Filename>
+            <Filename>9.1.1-20180610-OFFICIAL-kuntao.zip</Filename>
             <RomUrl
                 id="rom"
                 title="LiquidRemix"
-                description="Download latest build for Kuntao">https://www.androidfilehost.com/?fid=8182227860560346876</RomUrl>
+                description="Download latest build for Kuntao">https://www.androidfilehost.com/?fid=746163614322269949</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -15,6 +15,11 @@
             	id="open_gapps"
             	title="OpenGApps"
             	description="Download latest OpenGApps for Android Oreo">https://opengapps.org</OpenGappsUrl>
+            <MaintainerUrl
+                 id="Maintainer"
+                 title="Maintainer"
+                 description="Ruturaj Jena">https://forum.xda-developers.com/member.php?u=7940080</MaintainerUrl>
+                           
         </kuntao>
     </Official>
 </SlimOTA>
