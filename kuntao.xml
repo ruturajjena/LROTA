@@ -2,15 +2,15 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Official>
         <kuntao>
-            <Filename>9.1.2-20180625-OFFICIAL-kuntao.zip</Filename>
+            <Filename>9.1.2-20180628-OFFICIAL-kuntao.zip</Filename>
             <RomUrl
                 id="rom"
                 title="LiquidRemix"
-                description="Download latest build for Kuntao">https://www.androidfilehost.com/?fid=962339331459002928</RomUrl>
+                description="Download latest build for Kuntao">https://www.androidfilehost.com/?fid=11050483647474827570</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="Click here to view latest changes">https://pastebin.com/5xZNHA4L</ChangelogUrl>
+                description="Click here to view latest changes">https://forum.xda-developers.com/showpost.php?p=76570681&postcount=2</ChangelogUrl>
             <OpenGappsUrl
             	id="open_gapps"
             	title="OpenGApps"
